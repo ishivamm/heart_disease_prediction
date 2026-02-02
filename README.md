@@ -61,6 +61,7 @@ Below are screenshots showcasing different sections of the application:
 ### 🏠 Home Page
 
 screenshots/.gitkeep
+<img width="1366" height="768" alt="1_home" src="https://github.com/user-attachments/assets/2a7260a7-18c8-4f0e-bad0-af177ddefa8f" />
 
 
 ### 🧮 Prediction Page
