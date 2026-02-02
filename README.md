@@ -60,23 +60,28 @@ Below are screenshots showcasing different sections of the application:
 
 ### 🏠 Home Page
 
-![Home Page](screenshots/1_home.png)
+screenshots/.gitkeep
+
 
 ### 🧮 Prediction Page
 
-![Prediction Page](screenshots/2_predict.png)
+<img width="1366" height="768" alt="2_predict" src="https://github.com/user-attachments/assets/a53eccc0-f077-4e38-93e1-26aef03d9b46" />
+
 
 ### 📘 Medical Terms & Abbreviations (Part 1)
 
-![Medical Terms 1](screenshots/3_Medical_term_used.png)
+<img width="1366" height="768" alt="3_Medical_term_used" src="https://github.com/user-attachments/assets/4656a988-2897-4e85-a96b-e28a35e3acb1" />
+
 
 ### 📘 Medical Terms & Abbreviations (Part 2)
 
-![Medical Terms 2](screenshots/4_Medical_term_used.png)
+<img width="1366" height="768" alt="4_Medical_term_used" src="https://github.com/user-attachments/assets/2e0786e4-6926-4a02-9635-2b2d894f6da3" />
+
 
 ### ℹ️ About Page
 
-![About Page](screenshots/5_about.png)
+<img width="1366" height="768" alt="5_about" src="https://github.com/user-attachments/assets/66a64e26-d7b4-4eb8-a067-17067632457b" />
+
 
 ---
 
