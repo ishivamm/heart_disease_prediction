@@ -97,10 +97,12 @@ Below are screenshots showcasing different sections of the application:
 
 ## 🚀 Run Locally
 
+```bash
 git clone https://github.com/ishivamm/heart_disease_prediction.git
 cd heart_disease_prediction
 pip install -r requirements.txt
 streamlit run app.py
+
 
 ---
 
