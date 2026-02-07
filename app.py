@@ -22,14 +22,28 @@ model, scaler, columns = load_artifacts()
 # ---------------- CUSTOM UI ----------------
 st.markdown("""
 <style>
+/* Adaptive card based on Streamlit theme */
 div[data-testid="stForm"] {
-    background-color: #0e1117;
+    background-color: var(--secondary-background-color);
     padding: 25px;
-    border-radius: 15px;
-    border: 1px solid #262730;
+    border-radius: 16px;
+    border: 1px solid var(--border-color);
+}
+
+/* Input fields */
+input, select, textarea {
+    background-color: var(--background-color) !important;
+    color: var(--text-color) !important;
+}
+
+/* Labels */
+label {
+    color: var(--text-color) !important;
+    font-weight: 500;
 }
 </style>
 """, unsafe_allow_html=True)
+
 
 # ---------------- HEADER ----------------
 st.markdown(
